@@ -1,0 +1,85 @@
+.nav-color {
+    background-color: aliceblue;
+}
+
+.background-pic {
+    background-color: aliceblue;
+    opacity: 1;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.background-home {
+    background-color: aliceblue;
+    opacity: 0.8;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.background-form {
+    background-color: aliceblue;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+body {
+    background-image: url("berge.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.letters {
+    color: black;
+}
+
+.ml-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px;
+}
+
+.setMargin {
+    margin-bottem: 50px;
+}
+
+.card-style {
+    background-color: azure;
+    width: 50rem;
+    margin-bottom: 50px;
+    height: 60rem;
+
+}
+
+.inside-background {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.card-special {
+    background-color: aliceblue;
+    opacity: 1 !important;
+}
+
+.card-map {
+    width: 60rem;
+    height: 50rem;
+}
+
+.logo {
+    float:left;
+    width:25px;
+    height:25px;
+    margin-right:20px;
+}
